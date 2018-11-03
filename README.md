@@ -1,3 +1,3 @@
-# Classifier-observation
+# Classifier Observation
 * Naive Bayes classifier
 * Bayes classifier
